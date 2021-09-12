@@ -1,4 +1,7 @@
-# React App Calculate
+# React App Calculate https://calculator-nice.netlify.app/
+
+![image](https://user-images.githubusercontent.com/30164447/132969306-abd791c5-dba1-4ab4-aab6-e2fd5790dca4.png)
+
 
 ## Available Scripts
 
